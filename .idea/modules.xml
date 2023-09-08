@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Text/Text.iml" filepath="$PROJECT_DIR$/Text/Text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WelcomeJava.iml" filepath="$PROJECT_DIR$/WelcomeJava.iml" />
+    </modules>
+  </component>
+</project>
